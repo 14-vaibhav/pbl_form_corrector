@@ -1,5 +1,7 @@
 # pbl_form_corrector
 correct form of basic powerlifting exercises
+
+
 🏋️ AI-Based Gym Form Correction System
 
 An AI-powered web application that analyzes workout videos and provides automated form correction feedback for compound lifts like Squat, Deadlift, and Bench Press using computer vision.
